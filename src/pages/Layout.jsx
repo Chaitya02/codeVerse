@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 
 const Layout = () => {
   return (
-    <div className="h-screen bg-transparent">
+    <div className="bg-transparent">
       <Navbar />
       <Outlet />
       <Footer />

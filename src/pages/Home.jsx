@@ -4,7 +4,7 @@ import FakeProfile from "../assets/fake_profile.jpg";
 
 const Home = () => {
   return (
-    <div className="">
+    <div>
       <div
         className="flex justify-center items-center h-[500px] text-white"
         style={{
